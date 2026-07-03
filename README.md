@@ -7,21 +7,20 @@ APCI: A Complexity-Aware Framework for Computational Software Effort Estimation 
 
 The benchmark contains 1,040 IDS development project instances generated from multiple public intrusion detection datasets, dataset scales, feature configurations, learning algorithms, and computational resource measurements.
 
-Contents
+Contents 
 APCI-IDS_Benchmark.xlsx
 README.md
 Benchmark Attributes
 
-The benchmark includes:
-
-Dataset information
-Dataset size level
-Feature configuration
-Model category
-Model name
-Hyperparameter level
-Training time
-CPU utilization
-GPU utilization
-Memory utilization
+The benchmark includes: 
+Dataset information, 
+Dataset size level, 
+Feature configuration, 
+Model category, 
+Model name, 
+Hyperparameter level, 
+Training time, 
+CPU utilization, 
+GPU utilization, 
+Memory utilization, 
 Energy proxy
